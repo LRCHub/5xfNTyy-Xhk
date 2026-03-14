@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ナミカレ",
+  "base_artist": "ツユ",
+  "createdAt": "2026-03-14T14:51:28.025098Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ナミカレ",
+      "artist": "ツユ",
+      "has_synced": true,
+      "path": "select/01_ナミカレ_ツユ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "11. ナミカレ",
+      "artist": "ツユ",
+      "has_synced": true,
+      "path": "select/02_11._ナミカレ_ツユ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ツユ - ナミカレ MV",
+      "artist": "TUYU",
+      "has_synced": true,
+      "path": "select/03_ツユ_-_ナミカレ_MV_TUYU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ナミカレ",
+      "artist": "つゆ",
+      "has_synced": false,
+      "path": "select/pl_01_ナミカレ_つゆ.txt"
+    }
+  ]
+}
